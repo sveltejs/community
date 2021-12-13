@@ -14,5 +14,5 @@ The Svelte Code of Conduct is administered by Svelte Society, a partner organisa
 
 This decision was made to both reduce the burden of responsibility on the maintainers as well as holding them accountable. Maintainers typically hold a lot of power and complaints against core member can easily be swept under the rug. Placing the administration and enforcement of the Code of Conduct in the hands of an independent organisation will ensure that maintainers are held to the same high standard as any other participant in the Svelte community.
 
-- [Community Guidelines]()
-- [Contributor Guidlines]()
+<!-- - [Community Guidelines]()
+- [Contributor Guidlines]() -->
